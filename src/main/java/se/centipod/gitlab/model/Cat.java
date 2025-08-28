@@ -25,4 +25,7 @@ public class Cat {
         this.color = color;
     }
 
+    public void makeSound() {
+        System.out.println("Meow");
+    }
 }
