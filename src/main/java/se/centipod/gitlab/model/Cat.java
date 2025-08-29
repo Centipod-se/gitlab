@@ -1,6 +1,6 @@
 package se.centipod.gitlab.model;
 
-public class Cat {
+public class Cat implements Animal {
     private String name;
     private String color;
 
