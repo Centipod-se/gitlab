@@ -26,7 +26,11 @@ public class Cat {
     }
 
     public void makeSound() {
-        System.out.println("Meow");
+        System.out.println("Meeeeow");
+    }
+
+    public void purr() {
+        System.out.println("Purr");
     }
 }
 //Centipod comment
